@@ -1,0 +1,117 @@
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+.home img {
+    width: 45%;
+}
+
+.three img {
+    border-radius: 10px;
+}
+
+.black img {
+    height: 50%;
+    transition: 0.3s;
+    filter: grayscale(100%);
+}
+
+.black img:hover {
+    filter: grayscale(0%);
+}
+
+.tab-content img {
+    border-radius: 20px;
+}
+
+.features .nav-link i {
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 20px;
+    color: rgb(57, 140, 196);
+}
+
+.features .nav-link {
+    color: black;
+    padding: 30px;
+    border-radius: 10px;
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.icon i {
+    font-size: 30px;
+    border-radius: 10px;
+    display: inline-flex;
+    width: 70px;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+    margin-right: 25px;
+}
+
+.ser-border {
+    border: 1px solid rgba(128, 128, 128, 0.44);
+    border-radius: 10px;
+    padding: 35px;
+    display: flex;
+}
+.clients {
+    padding-top: 5%;
+}
+.clients img {
+    width: 50%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.opcty {
+    opacity: 50%;
+}
+
+.bi-activity {
+    color: #0dcaf0;
+    border: 1px solid #0dcaf0;
+    background: rgba(13, 202, 240, 0.1);
+}
+
+.bi-broadcast {
+    color: #fd7e14;
+    border: 1px solid #fd7e14;
+    background: rgba(253, 126, 20, 0.1);
+}
+
+.bi-easel {
+    color: #20c997;
+    border: 1px solid #20c997;
+    background: rgba(32, 201, 151, 0.1);
+}
+
+.bi-bounding-box-circles {
+    color: #df1529;
+    border: 1px solid #df1529;
+    background: rgba(223, 21, 4, 0.1);
+}
+
+.bi-calendar4-week {
+    color: #6610f2;
+    border: 1px solid #6610f2;
+    background: rgba(102, 16, 242, 0.1);
+}
+
+.bi-chat-square-text {
+    color: #f3268c;
+    border: 1px solid #f3268c;
+    background: rgba(243, 38, 140, 0.1);
+}
+
+.more-feature img {
+     display: flex;
+    
+}  
+
+
